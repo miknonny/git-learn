@@ -1,0 +1,24 @@
+{
+  "name": "git-learn",
+  "version": "0.1.0",
+  "description": "A simple respository to learn about github",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/miknonny/git-learn.git"
+  },
+  "keywords": [
+    "learn",
+    "github",
+    "npm"
+  ],
+  "author": "mbah michael <miknonny@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/miknonny/git-learn/issues"
+  },
+  "homepage": "https://github.com/miknonny/git-learn#readme"
+}
